@@ -1977,6 +1977,27 @@ input, select, textarea {
 			background-color: #7eaeac;
 		}
 
+/* About Links */
+
+	.links {
+		text-align: center;
+		margin-top: 1em;
+	}
+
+	.linkedin {
+
+		margin-bottom: 1em;
+	}
+
+	.resumes {
+		text-align: center;
+		margin-top: 1em;
+		display: flex;
+		justify-content: center;
+		gap: 1em;
+		flex-wrap: wrap;
+	}
+
 /* Item */
 
 	.item {
